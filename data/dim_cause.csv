@@ -1,0 +1,182 @@
+cause_id,cause_name
+1,Abrasi Air Laut
+2,AIDS
+3,Aksi Teror dan Sabotase
+4,Angin kencang
+5,Angin Puting Beliung
+6,Angin Siklon Tropis
+7,Angin siklon tropis (angin kencang dan angin puting beliung)
+8,Angin Topan
+9,Angin Topan / Angin Puting Beliung / Angin Puyuh
+10,Antraks
+11,Avian Influenza (Flu Burung)
+12,Banjir
+13,Banjir Bandang
+14,Banjir Bandang dan Angin Siklon Tropis
+15,Banjir Bandang dan Tanah Longsor
+16,Banjir dan Tanah Longsor
+17,Banjir disertai Tanah Longsor
+18,Banjir Lahar Dingin
+19,Batuk Rejan
+20,Bencana kelaparan
+21,Campak
+22,Cedera intrakranial
+23,Cedera lahir
+24,Cedera YDT lainnya YTT dan daerah badan Multipel
+25,"Cedera, Keracunan, dan Akibat Sebab Luar Tertentu Lainnya"
+26,Cikungunya
+27,COVID-19
+28,Demam Berdarah Dengue (DBD)
+29,Demam Tifoid dan Paratifoid
+30,Demam yang Sebabnya Tidak Diketahui
+31,Diabetes melitus YTT
+32,Diare
+33,Diare & gastroenteritis Oleh penyebab infeksi tertentu (kolitis infeksi)
+34,Difteri
+35,Dispepsia
+36,Eklamsia dan preeklamsia
+37,Erupsi Gunung Api
+38,Faktor yg Mempengaruhi Keadaan Kesehatan & yg Berhubungan dengan Pelayanan Kesehatan
+39,Gagal ginjal lainnya
+40,Gagal Teknologi
+41,Gangguan Mental & Perilaku
+42,Gangguan saluran napas lainnya yang berhubungan dengan masa perinatal
+43,Gastritis dan Duodenitis
+44,"Gejala, Tanda & Penemuan Laboratorium, Klinik Abnormal YTK"
+45,Gelombang Besar
+46,Gelombang Besar dan Angin Siklon Tropis
+47,Gelombang Pasang
+48,Gelombang Pasang/Badai
+49,Gempa & Tsunami
+50,Gempa Bumi
+51,Gempa Bumi dan Tsunami
+52,Gizi Buruk
+53,Hepatitis A
+54,Hepatitis B
+55,Hepatitis Klinis
+56,Hipertensi Esensial (Primer)
+57,Hipoksia intrauterus dan asfiksia lahir
+58,Infeksi khusus lainnya pada masa perinatal
+59,Infeksi Saluran Napas Bagian Atas Akut Lainnya
+60,Janin dan bayi baru lahir yang dipengaruhi oleh faktor dan penyulit kehamilan persalinan dan kelahiran
+61,Kebakaran
+62,Kebakaran (Pemukiman)
+63,Kebakaran Hutan dan Lahan
+64,Kecelakaan Industri
+65,Kecelakaan kerja
+66,Kecelakaan Lalu Lintas
+67,Kecelakaan Transportasi
+68,Kecelakaan Transportasi Darat
+69,Kecelakaan Transportasi Laut-Udara
+70,Kegagalan Teknologi
+71,Kegagalan Teknologi (termasuk ledakan kompor gas)
+72,Kehamilan yang berakhir abortus
+73,"Kehamilan, Persalinan & Masa Nifas"
+74,Kejadian Luar Biasa (KLB) - Keracunan
+75,Kejadian Luar Biasa (KLB) - Penyakit
+76,Kekeringan
+77,Keracunan
+78,Keracunan Makanan
+79,Keracunan/KLB
+80,KLB
+81,KLB Antraks
+82,KLB Cacat Air
+83,KLB Campak
+84,KLB Cikungunya
+85,KLB Demam Berdarah
+86,KLB Demam Berdarah Dengue (DBD)
+87,KLB Dengue High Fever
+88,KLB Dengue Shock Syndrome
+89,KLB Diare
+90,KLB Diare Berdarah
+91,KLB Difteri
+92,KLB Disentri
+93,KLB Frambusia
+94,KLB Gizi Buruk
+95,"KLB Hand, Foot, Mouth Diseases"
+96,KLB Hepatitis
+97,KLB Hepatitis Klinis
+98,KLB Keracunan
+99,KLB Keracunan Makanan
+100,KLB Leptospirosis
+101,KLB Malaria
+102,KLB Malaria Falsiparum
+103,KLB Malaria Klinis
+104,KLB Marasmus
+105,KLB Meningitis
+106,KLB Parotitis
+107,KLB Pertusis
+108,KLB Polio
+109,KLB Rabies
+110,KLB Rubella
+111,KLB Tetanus
+112,KLB Tetanus Neonatal
+113,KLB Thypoid
+114,KLB Tifus Perut
+115,KLB Typus Perut
+116,Kolera
+117,Kondisi lain yang bermula pada masa perinatal
+118,Kondisi Tertentu yang bermula pada masa Perinatal
+119,Konflik
+120,Konflik Sosial
+121,Konflik Sosial atau Kerusuhan Sosial
+122,Kronis Filariasis
+123,"Ledakan (bom, tabung gas, dll)"
+124,Ledakan Akibat Gas
+125,Ledakan Bom
+126,Ledakan Granat/Bom
+127,Leptospirosis
+128,Letusan Gunung Api
+129,Letusan Gunung Berapi
+130,Letusan/Peningkatan Aktivitas Gunung Api
+131,Longsor Sampah
+132,Malaria (termasuk semua malaria)
+133,Malaria Klinis
+134,"Malformasi, Deformasi Kongenital & Kelainan Kromosom"
+135,Neoplasma
+136,Penyakit Apendiks
+137,Penyakit Darah & Organ Pembuat Darah & Gangguan tertentu yang Melibatkan Mekanisme Imun
+138,"Penyakit Endokrin, Nutrisi, dan Metabolik"
+139,Penyakit hemolitik pada janin dan bayi baru lahir
+140,Penyakit Infeksi & Parasit Tertentu
+141,Penyakit infeksi dan parasit kongenital
+142,Penyakit jantung lainnya
+143,Penyakit Kulit & Jaringan Subkutan
+144,Penyakit Mata dan Adneksa
+145,Penyakit Sistem Cerna
+146,Penyakit Sistem Kemih Kelamin
+147,Penyakit Sistem Muskuloskeletal dan Jaringan Ikat
+148,Penyakit Sistem Napas
+149,Penyakit Sistem Sirkulasi Darah
+150,Penyakit Susunan Syaraf
+151,Penyakit Telinga dan Pros. Mastoideus
+152,Penyulit kehamilan dan persalinan lainnya
+153,"Penyulit kehamilan, persalinan dan masa nifas lainnya"
+154,Perdarahan antepartum
+155,Perdarahan intrakranial
+156,Perdarahan pasca persalinan
+157,Persalinan dengan penyulit gawat janin
+158,Persalinan prematur
+159,"Pertumbuhan janin lamban, malnutrisi janin dan gangguan yang berhubungan dengan kehamilan pendek dan berat badan lahir rendah"
+160,Petir
+161,Plasenta previa
+162,Pneumonia
+163,Rabies
+164,Rabies - Lyssa
+165,Rubella
+166,Sebab Luar Morbiditas & Mortalitas
+167,Septisemia
+168,Stroke tidak menyebut pendarahan atau infark
+169,Tanah Longsor
+170,TB Paru
+171,TB Paru BTA Positif
+172,Tersambar Petir
+173,Tetanus
+174,Tetanus Neonatorium
+175,Tsunami
+176,Tsunami Aceh (Hilang)
+177,Tsunami Aceh (Meninggal)
+178,Tuberkulosis
+179,Tuberkulosis paru
+180,Tuberkulosis paru lainnya
+181,Wabah Penyakit (Epidemi)
